@@ -54,3 +54,10 @@ You can find me on these platforms:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmaliksadath@gmail.com)
 
 ---
+
+<p align="center">
+  <div align="center">
+    <img align="" src="https://github-readme-stats.vercel.app/api?username=Abdul-Malik-0404&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Malik's streak stats"/>
+    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Malik-0404&layout=compact&theme=dark&hide_border=true" alt="Malik's top langs"/>
+  </div>
+</p>
