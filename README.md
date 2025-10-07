@@ -27,12 +27,22 @@
 ### Learning & Future Goals
 I'm actively studying these tools and technologies, including my main OS!
 
-| Learning Now | Future Goal | ML/Data Tools |
-| :---: | :---: | :---: |
-| [![Arch Linux](https://skillicons.dev/icons?i=arch)](https://skillicons.dev/) | [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev/) | [![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev/) |
-| [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev/) | [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev/) | [![Numpy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev/) |
-| [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev/) | | [![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://skillicons.dev/) |
-| [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://scikit-learn.org/stable/) | | [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) |
+| Learning Now | Future Goal |
+| :---: | :---: |
+| [![Arch Linux](https://skillicons.dev/icons?i=arch)](https://skillicons.dev/) | [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev/) |
+| [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev/) | [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev/) |
+| [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev/) | |
+
+### Data Science & Machine Learning 📊
+
+**Core Data Libraries:**
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-03314B?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+
+**ML Frameworks:**
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://scikit-learn.org/stable/)
 
 ---
 
