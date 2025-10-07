@@ -5,10 +5,11 @@
 ## 💻 About Me
 
 - 👨‍💻 I’m currently focused on a **software development group project** for my university.
+- 🐧 My daily driver is **Arch Linux**, a great way to learn system internals!
 - 🌱 I’m currently learning: **Linux**, **Docker**, **Machine Learning (ML)**, and **Git**.
 - 🚀 I’m looking forward to diving into **React** and **Spring Boot** next!
 - 👯 I’m open to collaborating on any **University-based projects** or simple **front-end web applications**.
-- 💬 Ask me about: **Python**, **Java**, or my **University group project experiences**.
+- 💬 Ask me about: **Python**, **Java**, or my experience with **Arch Linux**.
 - 📫 How to reach me: **abdulmaliksadath@gmail.com**
 - 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdul-malik-9a448b293)**.
 - ⚡ Fun fact: I've already contributed to a **group website project** using my HTML, CSS, and JavaScript skills!
@@ -24,15 +25,14 @@
 [![HTML/CSS/JS](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev/)
 
 ### Learning & Future Goals
-These are the technologies I'm actively studying or plan to learn soon!
+I'm actively studying these tools and technologies, including my main OS!
 
 | Learning Now | Future Goal | ML/Data Tools |
 | :---: | :---: | :---: |
-| [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev/) | [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev/) | [![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev/) |
+| [![Arch Linux](https://skillicons.dev/icons?i=arch)](https://skillicons.dev/) | [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev/) | [![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev/) |
 | [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev/) | [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev/) | [![Numpy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev/) |
 | [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev/) | | [![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://skillicons.dev/) |
 | [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://scikit-learn.org/stable/) | | [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) |
-
 
 ---
 
