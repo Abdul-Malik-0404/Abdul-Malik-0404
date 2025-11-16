@@ -22,7 +22,7 @@
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev/)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev/)
-[![HTML/CSS/JS](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev/)
+[![HTML/CSS/JS/TS](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev/)
 
 ### Learning & Future Goals
 I'm actively studying these tools and technologies, including my main OS!
