@@ -31,7 +31,7 @@ I'm actively studying these tools and technologies, including my main OS!
 | :---: | :---: |
 | [![Arch Linux](https://skillicons.dev/icons?i=arch)](https://skillicons.dev/) | [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev/) |
 | [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev/) | [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev/) |
-| [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev/) | |
+| [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev/) | [![Spring Boot](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev/) |
 
 ### Data Science & Machine Learning 📊
 
