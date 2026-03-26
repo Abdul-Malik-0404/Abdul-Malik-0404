@@ -13,6 +13,7 @@
 - 📫 How to reach me: **abdulmaliksadath@gmail.com**
 - 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdul-malik-9a448b293)**.
 - ⚡ Fun fact: I've already contributed to a **group website project** using my HTML, CSS, and JavaScript skills!
+- Check my **[portfolio](https://portfolio-beta-opal-52.vercel.app/)**
 
 ---
 
