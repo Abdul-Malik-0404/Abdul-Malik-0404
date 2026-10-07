@@ -44,6 +44,7 @@
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" /></a>
   <img width="10" />
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="35" alt="c++ logo" /></a>
+  <a href="https://https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="35" alt="cs logo" /></a>
   <img width="10" />
   <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo" /></a>
   <img width="10" />
@@ -57,39 +58,40 @@
   <img width="10" />
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo" /></a>
 
-  <br /><br />
-  <img src="assets/header-fullstack.svg" alt="Frontend, Backend & Cloud" height="28" />
-  <br /><br />
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" /></a>
-  <img width="10" />
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo" /></a>
-  <img width="10" />
-  <a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo" /></a>
-  <img width="10" />
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgres logo" /></a>
-  <img width="10" />
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo" /></a>
-  <img width="10" />
-  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="35" alt="google cloud logo" /></a>
+<br /><br />
+<img src="assets/header-fullstack.svg" alt="Frontend, Backend & Cloud" height="28" />
+<br /><br />
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" /></a>
+<img width="10" />
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo" /></a>
+<img width="10" />
+<a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo" /></a>
+<img width="10" />
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgres logo" /></a>
+<img width="10" />
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo" /></a>
+<img width="10" />
+<a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="35" alt="google cloud logo" /></a>
 
-  <br /><br />
-  <img src="assets/header-systems.svg" alt="Systems, DevOps & Tools" height="28" />
-  <br /><br />
-  <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" height="35" alt="arch linux logo" /></a>
-  <img width="10" />
-  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo" /></a>
-  <img width="10" />
-  <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo" /></a>
-  <img width="10" />
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" /></a>
-  <img width="10" />
-  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" height="35" alt="neovim logo" /></a>
-  <img width="10" />
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" /></a>
-  <img width="10" />
-  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="android studio logo" /></a>
-  <img width="10" />
-  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="35" alt="intellij logo" /></a>
+<br /><br />
+<img src="assets/header-systems.svg" alt="Systems, DevOps & Tools" height="28" />
+<br /><br />
+<a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" height="35" alt="arch linux logo" /></a>
+<img width="10" />
+<a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo" /></a>
+<img width="10" />
+<a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo" /></a>
+<img width="10" />
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" /></a>
+<a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="35" alt="git logo" /></a>
+<img width="10" />
+<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" height="35" alt="neovim logo" /></a>
+<img width="10" />
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" /></a>
+<img width="10" />
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="android studio logo" /></a>
+<img width="10" />
+<a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="35" alt="intellij logo" /></a>
 
 </div>
 
