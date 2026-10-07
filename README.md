@@ -1,87 +1,107 @@
-### Hi there 👋 I'm Abdul Malik
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdul-Malik-0404.Abdul-Malik-0404&left_color=black" />
+</div>
+<div align="center">
+  <a href="https://github.com/Abdul-Malik-0404">
+    <img src="assets/banner.gif" width="100%" alt="Banner" />
+  </a>
+</div>
 
----
+<h1 align="center">Hi 👋, I'm Abdul Malik</h1>
+<h3 align="center">Student & Software Developer<br />Arch Linux daily driver, learning system internals & ML.<br />I do Python, Java, and building front-end web applications.</h3>
 
-## 💻 About Me
+<div align="center">
+  <img src="assets/divider.svg" width="100%" height="6" />
+</div>
 
-- 👨‍💻 I’m currently focused on a **software development group project** for my university.
-- 🐧 My daily driver is **Arch Linux**, a great way to learn system internals!
-- 🌱 I’m currently learning: **Linux**, **Docker**, **Machine Learning (ML)**, and **Git**.
-- 🚀 I’m looking forward to diving into **React** and **Spring Boot** next!
-- 👯 I’m open to collaborating on any **University-based projects** or simple **front-end web applications**.
-- 💬 Ask me about: **Python**, **Java**, or my experience with **Arch Linux**.
-- 📫 How to reach me: **abdulmaliksadath@gmail.com**
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdul-malik-9a448b293)**.
-- ⚡ Fun fact: I've already contributed to a **group website project** using my HTML, CSS, and JavaScript skills!
-- 👉 Check out my **[portfolio](https://portfolio-beta-opal-52.vercel.app/)**
+<div align="center">
 
----
+  <a href="https://www.linkedin.com/in/abdul-malik-9a448b293">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
 
-## 🛠️ Tech Stack & Tools
+  <a href="https://portfolio-beta-opal-52.vercel.app/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
 
-### Languages
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev/)
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev/)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev/)
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev/)
+  <a href="mailto:abdulmaliksadath@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 
-[![HTML/CSS/JS/TS](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev/)
+</div>
 
+<div align="center">
+  <img src="assets/divider.svg" width="100%" height="6" />
+</div>
 
-### Tools
-[![Neovim](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev/)
-[![VScode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev/)
-[![Android-Studio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev/)
-[![Gradle](https://skillicons.dev/icons?i=gradle)](https://skillicons.dev/)
+<div align="center">
 
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev/)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev/)
-[![Intellij-Idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev/)
+  <br />
+  <img src="assets/header-languages.svg" alt="Programming Languages" height="28" />
+  <br /><br />
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" /></a>
+  <img width="10" />
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" /></a>
+  <img width="10" />
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="35" alt="c++ logo" /></a>
+  <img width="10" />
+  <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo" /></a>
+  <img width="10" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="35" alt="html logo" /></a>
+  <img width="10" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo" /></a>
+  <img width="10" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" /></a>
+  <img width="10" />
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" /></a>
+  <img width="10" />
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo" /></a>
 
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev/)
-[![Express.js](https://skillicons.dev/icons?i=expressjs)](https://skillicons.dev/)
-[![Kafka](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev/)
+  <br /><br />
+  <img src="assets/header-fullstack.svg" alt="Frontend, Backend & Cloud" height="28" />
+  <br /><br />
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" /></a>
+  <img width="10" />
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo" /></a>
+  <img width="10" />
+  <a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" height="35" alt="kafka logo" /></a>
+  <img width="10" />
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgres logo" /></a>
+  <img width="10" />
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo" /></a>
+  <img width="10" />
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="35" alt="google cloud logo" /></a>
 
-### Cloud
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev/)
-[![Google-Cloud](https://skillicons.dev/icons?i=googlecloud)](https://skillicons.dev/)
+  <br /><br />
+  <img src="assets/header-systems.svg" alt="Systems, DevOps & Tools" height="28" />
+  <br /><br />
+  <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" height="35" alt="arch linux logo" /></a>
+  <img width="10" />
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo" /></a>
+  <img width="10" />
+  <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo" /></a>
+  <img width="10" />
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" /></a>
+  <img width="10" />
+  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" height="35" alt="neovim logo" /></a>
+  <img width="10" />
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" /></a>
+  <img width="10" />
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="android studio logo" /></a>
+  <img width="10" />
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="35" alt="intellij logo" /></a>
 
-### Learning & Future Goals
-I'm actively studying these tools and technologies, including my main OS!
+</div>
 
-| Learning Now | Future Goal |
-| :---: | :---: |
-| [![Arch Linux](https://skillicons.dev/icons?i=arch)](https://skillicons.dev/) | [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev/) |
-| [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev/) | [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev/) |
-| [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev/) | [![Spring Boot](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev/) |
+<div align="center">
+  <br />
+  <img src="assets/divider.svg" width="100%" height="6" />
+</div>
 
-### Data Science & Machine Learning
-
-#### **Core Data Libraries**
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-03314B?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-
-#### **ML Frameworks**
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://scikit-learn.org/stable/)
-
----
-
-## 🔗 Connect With Me
-
-You can find me on these platforms:
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdul-malik-9a448b293)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:abdulmaliksadath@gmail.com)
-
----
-
-<p align="center">
-  <div align="center">
-    <img align="" src="https://github-readme-stats.vercel.app/api?username=Abdul-Malik-0404&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Malik's streak stats"/>
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Malik-0404&layout=compact&theme=dark&hide_border=true" alt="Malik's top langs"/>
-  </div>
-</p>
+<div align="center">
+  <br />
+  <img src="assets/header-stats.svg" alt="Activity & Metrics" height="28" />
+  <br /><br />
+  <a href="https://github.com/Abdul-Malik-0404"><img src="https://streak-stats.demolab.com/?user=Abdul-Malik-0404&theme=tokyonight&hide_border=true" height="165" alt="streak stats" /></a>
+  <a href="https://github.com/Abdul-Malik-0404"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Malik-0404&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=1800" height="165" alt="top langs" /></a>
+</div>
