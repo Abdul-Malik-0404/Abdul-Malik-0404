@@ -1,0 +1,116 @@
+<svg fill="none" viewBox="0 0 800 270" width="800" height="270" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background-color: #0d1117;
+          border: 1px solid #30363d;
+          border-radius: 8px;
+          padding: 16px 20px;
+          font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+          color: #c9d1d9;
+          font-size: 13.5px;
+          line-height: 1.5;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+        }
+        .window-bar {
+          display: flex;
+          align-items: center;
+          margin-bottom: 14px;
+          padding-bottom: 8px;
+          border-bottom: 1px solid #21262d;
+        }
+        .dots {
+          display: flex;
+          gap: 6px;
+        }
+        .dot {
+          width: 11px;
+          height: 11px;
+          border-radius: 50%;
+        }
+        .dot-red { background-color: #ff5f56; }
+        .dot-yellow { background-color: #ffbd2e; }
+        .dot-green { background-color: #27c93f; }
+        .window-title {
+          margin: 0 auto;
+          color: #8b949e;
+          font-size: 12px;
+          letter-spacing: 0.5px;
+          padding-right: 40px;
+        }
+        .prompt {
+          color: #58a6ff;
+          font-weight: 600;
+        }
+        .path {
+          color: #7ee787;
+        }
+        .branch {
+          color: #d2a8ff;
+        }
+        .cmd {
+          color: #f0f6fc;
+          font-weight: bold;
+        }
+        .key {
+          color: #79c0ff;
+        }
+        .val {
+          color: #e6edf3;
+        }
+        .str {
+          color: #a5d6ff;
+        }
+        .cursor {
+          display: inline-block;
+          width: 8px;
+          height: 15px;
+          background-color: #58a6ff;
+          vertical-align: middle;
+          margin-left: 4px;
+          animation: blink 1s step-end infinite;
+        }
+        @keyframes blink {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0; }
+        }
+        .neofetch-table {
+          margin-top: 8px;
+        }
+        .arch-badge {
+          color: #1793d1;
+          font-weight: bold;
+        }
+      </style>
+
+      <div class="container">
+        <div class="window-bar">
+          <div class="dots">
+            <div class="dot dot-red"></div>
+            <div class="dot dot-yellow"></div>
+            <div class="dot dot-green"></div>
+          </div>
+          <div class="window-title">malik@archbox: ~</div>
+        </div>
+
+        <div>
+          <span class="prompt">malik</span><span style="color:#8b949e">@</span><span class="arch-badge">archbox</span>:<span class="path">~</span><span style="color:#8b949e"> (</span><span class="branch">main</span><span style="color:#8b949e">)</span>$ <span class="cmd">neofetch --user</span>
+        </div>
+
+        <div class="neofetch-table">
+          <div><span class="key">User      </span>: <span class="val">Abdul Malik</span> <span style="color:#8b949e">(&#64;Abdul-Malik-0404)</span></div>
+          <div><span class="key">OS        </span>: <span class="arch-badge">Arch Linux</span> <span style="color:#8b949e">x86_64 [Daily Driver]</span></div>
+          <div><span class="key">Editor    </span>: <span class="val">Neovim</span> <span style="color:#8b949e">/ VS Code</span></div>
+          <div><span class="key">Focus     </span>: <span class="val">Systems &amp; Kernel Internals, Machine Learning, Full-Stack</span></div>
+          <div><span class="key">Role      </span>: <span class="val">Software Development Undergrad</span></div>
+          <div><span class="key">Status    </span>: <span class="str">"Building, breaking, and mastering tools from the ground up."</span></div>
+        </div>
+
+        <div style="margin-top: 10px;">
+          <span class="prompt">malik</span><span style="color:#8b949e">@</span><span class="arch-badge">archbox</span>:<span class="path">~</span><span style="color:#8b949e"> (</span><span class="branch">main</span><span style="color:#8b949e">)</span>$ <span class="cursor"></span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
