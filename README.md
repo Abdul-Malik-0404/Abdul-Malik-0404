@@ -18,12 +18,42 @@
 
 ```bash
 $ cat << 'EOF' > about-me.txt
-> Computer Science undergrad passionate about low-level system internals,
-> backend architectures, and machine learning models.
+> Computer Science undergrad passionate about distributed systems, low-level
+> network internals, and machine learning models.
 > Daily-driving Arch Linux to understand operating systems beneath the surface.
-> Open to university collaborations, backend tooling, and front-end builds.
+> Currently researching proactive E2EE failover mechanisms in WebRTC SFUs.
 EOF
 ```
+
+---
+
+### `❯` Featured Research & Final Year Project
+
+<div align="left">
+  <table width="100%">
+    <tr>
+      <td>
+        <h3>📡 <a href="https://github.com/Abdul-Malik-0404/sfugue">sfugue</a> — Distributed WebRTC SFU Failover Testbed</h3>
+        <p><b>Proactive Stateful Session Evacuation &amp; E2EE (SFrame) Failover Benchmarking</b></p>
+        <p>An empirical chaos-engineering testbed designed to measure and eliminate End-to-End Encryption cryptographic blackout latency during Selective Forwarding Unit (SFU) pod failures.</p>
+        <p>
+          <img src="https://img.shields.io/badge/WebRTC-SFrame%20AES--GCM-333333?style=flat-square&logo=webrtc" />
+          <img src="https://img.shields.io/badge/Mediasoup-SFU%20Worker-0288D1?style=flat-square" />
+          <img src="https://img.shields.io/badge/Kubernetes-KinD%20Cluster-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+          <img src="https://img.shields.io/badge/Chaos%20Mesh-Fault%20Injection-E91E63?style=flat-square" />
+          <img src="https://img.shields.io/badge/Apache%20Kafka-Control%20Plane-231F20?style=flat-square&logo=apachekafka" />
+          <img src="https://img.shields.io/badge/TypeScript-Playwright%20Load%20Gen-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Prometheus-Telemetry-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        </p>
+        <ul>
+          <li>💥 <b>Chaos Engineering:</b> KinD cluster automating node evictions and packet drops with Chaos Mesh.</li>
+          <li>🔐 <b>Zero-Blackout E2EE:</b> Automated Playwright headless Chromium bots executing W3C Encoded Transforms to measure Time-to-First-Frame (TTFF) recovery.</li>
+          <li>⚡ <b>Predictive Failover:</b> Anomaly detection engine separating organic flash crowds from network floods to trigger proactive ICE restarts prior to pod termination.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
