@@ -18,7 +18,7 @@
 
 ```bash
 $ cat << 'EOF' > about-me.txt
-> Undergrad software developer passionate about low-level system internals,
+> Computer Science undergrad passionate about low-level system internals,
 > backend architectures, and machine learning models.
 > Daily-driving Arch Linux to understand operating systems beneath the surface.
 > Open to university collaborations, backend tooling, and front-end builds.
