@@ -19,7 +19,7 @@
 ```bash
 $ cat << 'EOF' > about-me.txt
 > Computer Science undergrad passionate about distributed systems, low-level
-> network internals, and machine learning models.
+> network internals, and cloud infrastructure.
 > Daily-driving Arch Linux to understand operating systems beneath the surface.
 > Currently researching proactive E2EE failover mechanisms in WebRTC SFUs.
 EOF
@@ -61,24 +61,28 @@ EOF
 
 #### Languages
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,cpp,kotlin,html,css,js,ts,bash" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,rust,java,cpp,bash,html,css" /></a>
 </p>
 
-#### Backend & Cloud
+#### Frontend & Web
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,kafka,postgres,firebase,gcp" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></a>
+</p>
+
+#### Backend, Cloud & Distributed
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,kafka,postgres,gcp,firebase" /></a>
 </p>
 
 #### Systems, DevOps & Environment
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arch,linux,docker,git,neovim,vscode,idea,androidstudio" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arch,linux,docker,k8s,git,neovim,vscode" /></a>
 </p>
 
-#### Data Science & Machine Learning
+#### Data & Analytics
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 </p>
 
@@ -87,10 +91,11 @@ EOF
 ### `❯` Currently Hacking On
 
 ```zsh
-[progress]  Machine Learning / Data Analysis    ████████░░  80%
-[progress]  Linux Systems & Docker Containers   ███████░░░  70%
-[upcoming]  React & Next.js Frameworks          █████░░░░░  50%
-[upcoming]  Spring Boot Microservices           ████░░░░░░  40%
+[core]      Linux Systems & Docker Containers   █████████░  90%
+[core]      React & Next.js Full-Stack Builds   ████████░░  80%
+[active]    Cloud Infrastructure & Distributed  ███████░░░  75%
+[learning]  Rust Systems Programming            █████░░░░░  50%
+[secondary] Machine Learning & Data Analytics   ████░░░░░░  40%
 ```
 
 ---
